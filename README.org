@@ -1,0 +1,10 @@
+* uffi
+
+UFFI (Universal Foreign Language Interface)
+
+|---------+--------------------------------|
+| source  | git:http://git.kpe.io/uffi.git |
+| commit  | 4d7ffd6                        |
+| systems | uffi                           |
+|---------+--------------------------------|
+
